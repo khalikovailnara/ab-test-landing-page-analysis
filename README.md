@@ -1,4 +1,6 @@
 # A/B Test: Landing Page Conversion Analysis
+<img width="1028" height="759" alt="2026-08-10_22-02-46" src="https://github.com/user-attachments/assets/e7b1dd5d-3d1a-4ed7-95f4-8c1e33dc4a53" />
+
 
 ## Business Problem
 
